@@ -4,6 +4,7 @@
 	"description": "A project to become a master of Backend development",
 	"keywords": ["freecodecamp","backend","learning"],
 	"license": "Unlicense",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
