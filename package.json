@@ -1,20 +1,23 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "donks",
-	"description": "A project to become a master of Backend development",
-	"keywords": ["freecodecamp","backend","learning"],
-	"license": "Unlicense",
-	"version": "0.0.1",
-	"dependencies": {
-		"express": "^4.14.0",
-		"moment":"^2.10.2"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "donks",
+  "description": "A project to become a master of Backend development",
+  "keywords": [
+    "freecodecamp",
+    "backend",
+    "learning"
+  ],
+  "license": "Unlicense",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://idontknow/todo.git"
+  }
 }
