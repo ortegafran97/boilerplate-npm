@@ -3,7 +3,7 @@
 	"author": "donks",
 	"description": "A project to become a master of Backend development",
 	"keywords": ["freecodecamp","backend","learning"],
-	"license": "MIT",
+	"license": "Unlicense",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
